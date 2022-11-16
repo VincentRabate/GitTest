@@ -1,7 +1,7 @@
 Versionner en local
 
 Git init -> initialise le dépot
-Git add -> ajoute toutes les modifs
+Git add "explication" -> ajoute toutes les modifs
 git commit -m -> créer un nouveau commit. git add pousse les fichiers
 en zone d'index; git commit les sauvegardes réellement dans un nouveau commit
 
